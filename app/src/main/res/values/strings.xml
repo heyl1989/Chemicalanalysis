@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">化学分析</string>
+
+    <string name="general_provisions">一般规定</string>
+    <string name="provisions_title">本规定适用于“冷却水化学处理水质与污垢分析方法”中各方法。在制定和执行“冷却水化学处理水质与污垢分析方法”时应遵守本规定。</string>
+    <string name="reagent">1.试剂</string>
+    <string name="water">2.分析用水</string>
+    <string name="solution">3.分析溶液</string>
+    <string name="solid_solution">4.非标溶液</string>
+    <string name="water_solution">5.稀水溶液</string>
+    <string name="water_bath">6.水浴</string>
+    <string name="burn_dry">7.灼烧和烘干</string>
+    <string name="dry_filtration">8.“干过滤”</string>
+    <string name="about">9.“约”</string>
+    <string name="weighing">10.称准至</string>
+    <string name="other">11.其他</string>
+
+    <string name="water_analysis">水质分析方法</string>
+
+    <string name="solid_analysis">污垢分析方法</string>
+    <string name="solid_analysis_title">在循环冷却水系统,通过污垢组份的测定，判别冷却水化学处理效果和提示循环冷却水系统运行中的主要障碍。</string>
+    <string name="collection_processing">1.试样采集和预处理</string>
+    <string name="ignition_loss">2.灼烧减量</string>
+    <string name="suan_undissolved">3.酸不溶物</string>
+    <string name="mgo_cao">4.氧化钙与氧化镁</string>
+    <string name="fe2o3">5.三氧化二铁</string>
+    <string name="zno">6.氧化锌</string>
+    <string name="al2o3">7.三氧化二铝</string>
+    <string name="cuo">8.氧化铜</string>
+    <string name="p2o5">9.五氧化二磷</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
